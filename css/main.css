@@ -13,4 +13,15 @@
 
    .landing{
    	padding-top: 50px;
+   height: 800px;
    }
+
+   .btn-primary {
+    
+    color: #fff;
+    background-color: #00a25e;
+    text-transform: uppercase;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
